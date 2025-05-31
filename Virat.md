@@ -1,0 +1,1 @@
+ ![alt text](<Innings Vs Innings^2.PNG>) ![alt text](<Innings Vs Runs Of Virat.PNG>) ![alt text](<Innings Vs Runs2 of Virat.PNG>) ![alt text](<Innings_Runs Of Virat.PNG>) ![alt text](Innngs_VsRuns.PNG)
