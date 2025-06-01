@@ -1,0 +1,1 @@
+![alt text](closing_And_openingPrices.PNG) ![alt text](closing_Price_squareOf_Waree.PNG) ![alt text](closing_price_SquareOfReliance.PNG) ![alt text](closing_Prices_RelianceAndReliance.PNG) ![alt text](cross_ProductofClosingOf_WareeAndRelance.PNG) ![alt text](opening_Prices_RelianceAndWaree.PNG)
